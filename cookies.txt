@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.looksrare.org	TRUE	/	FALSE	1999999999	__cf_bm	Nyq8DfCRxfhdWW66stDjspTl06XDMZEXvAOcOHMA33M-1671826707-0-AV6bg3VHzJYxB7c14wpte9A2oA9xZRwJ81wU54sK9l4CGdiDljWNkpfQHCBFv6hu4EmyiLNBvFNhUm2TeIXLcAk=
+looksrare.org	TRUE	/	FALSE	1999999999	SameSite	None
+

@@ -1,0 +1,53 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 23 Dec 2022 23:16:26 at https://looksrare.org/tr +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://looksrare.org/tr -O1 "c:\od\od" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:17:34	Warning: 	Link https://looksrare.org/tr/accounts/me not scanned (follow robots meta tag)
+23:18:01	Warning: 	Link https://looksrare.org/accounts/me not scanned (follow robots meta tag)
+23:18:19	Warning: 	Link https://looksrare.org/tr/collections/0xBC4CA0EdA7647A8aB7C2061c2E118A18a936f13D/activity not scanned (follow robots meta tag)
+23:18:19	Warning: 	Link https://looksrare.org/tr/collections/0x34d85c9CDeB23FA97cb08333b511ac86E1C4E258/activity not scanned (follow robots meta tag)
+23:18:19	Warning: 	Link https://looksrare.org/tr/collections/0x656D34A8309363302e46De99853F4cef30B85A1D/activity not scanned (follow robots meta tag)
+23:18:19	Warning: 	Link https://looksrare.org/tr/collections/0x60E4d786628Fea6478F785A6d7e704777c86a7c6/activity not scanned (follow robots meta tag)
+23:18:19	Warning: 	Link https://looksrare.org/tr/collections/0xba30E5F9Bb24caa003E9f2f0497Ad287FDF95623/activity not scanned (follow robots meta tag)
+23:18:19	Warning: 	Link https://looksrare.org/tr/collections/0x7F36182DeE28c45dE6072a34D29855BaE76DBe2f/activity not scanned (follow robots meta tag)
+23:18:19	Warning: 	Link https://looksrare.org/tr/collections/0xc73B17179Bf0C59cD5860Bb25247D1D1092c1088/activity not scanned (follow robots meta tag)
+23:18:20	Warning: 	Link https://looksrare.org/tr/collections/0x7D8820FA92EB1584636f4F5b8515B5476B75171a/activity not scanned (follow robots meta tag)
+23:18:20	Warning: 	Link https://looksrare.org/tr/collections/0x49cF6f5d44E70224e2E23fDcdd2C053F30aDA28B/activity not scanned (follow robots meta tag)
+23:18:20	Warning: 	Link https://looksrare.org/tr/collections/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/activity not scanned (follow robots meta tag)
+23:18:28	Warning: 	Link https://looksrare.org/collections/0xBC4CA0EdA7647A8aB7C2061c2E118A18a936f13D/activity not scanned (follow robots meta tag)
+23:18:28	Warning: 	Link https://looksrare.org/collections/0x34d85c9CDeB23FA97cb08333b511ac86E1C4E258/activity not scanned (follow robots meta tag)
+23:18:28	Warning: 	Link https://looksrare.org/collections/0x656D34A8309363302e46De99853F4cef30B85A1D/activity not scanned (follow robots meta tag)
+23:18:28	Warning: 	Link https://looksrare.org/collections/0x60E4d786628Fea6478F785A6d7e704777c86a7c6/activity not scanned (follow robots meta tag)
+23:18:28	Warning: 	Link https://looksrare.org/collections/0xba30E5F9Bb24caa003E9f2f0497Ad287FDF95623/activity not scanned (follow robots meta tag)
+23:18:28	Warning: 	Link https://looksrare.org/collections/0x7F36182DeE28c45dE6072a34D29855BaE76DBe2f/activity not scanned (follow robots meta tag)
+23:18:28	Warning: 	Link https://looksrare.org/collections/0xc73B17179Bf0C59cD5860Bb25247D1D1092c1088/activity not scanned (follow robots meta tag)
+23:18:28	Warning: 	Link https://looksrare.org/collections/0x7D8820FA92EB1584636f4F5b8515B5476B75171a/activity not scanned (follow robots meta tag)
+23:18:28	Warning: 	Link https://looksrare.org/collections/0x49cF6f5d44E70224e2E23fDcdd2C053F30aDA28B/activity not scanned (follow robots meta tag)
+23:18:29	Warning: 	Link https://looksrare.org/collections/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/activity not scanned (follow robots meta tag)
+23:18:29	Warning: 	Link https://looksrare.org/tr/collections/0x6B00de202e3Cd03c523CA05d8b47231DBdD9142b/activity not scanned (follow robots meta tag)
+23:18:29	Warning: 	Link https://looksrare.org/tr/collections/0x7DaEC605E9e2a1717326eeDFd660601e2753A057/activity not scanned (follow robots meta tag)
+23:18:29	Warning: 	Link https://looksrare.org/tr/collections/0x19b86299c21505cdf59cE63740B240A9C822b5E4/activity not scanned (follow robots meta tag)
+23:18:29	Warning: 	Link https://looksrare.org/tr/collections/0x64780CE53f6e966E18a22Af13a2F97369580Ec11/activity not scanned (follow robots meta tag)
+23:18:29	Warning: 	Link https://looksrare.org/tr/collections/0x5Af0D9827E0c53E4799BB226655A1de152A425a5/activity not scanned (follow robots meta tag)
+23:18:29	Warning: 	Link https://looksrare.org/tr/collections/0xBDa2481db91fc0F942eD3F53De378Ba45ba9d17E/activity not scanned (follow robots meta tag)
+23:18:30	Warning: 	Link https://looksrare.org/tr/collections/0xaCF63E56fd08970b43401492a02F6F38B6635C91/activity not scanned (follow robots meta tag)
+23:18:30	Warning: 	Link https://looksrare.org/tr/collections/0x306b1ea3ecdf94aB739F1910bbda052Ed4A9f949/activity not scanned (follow robots meta tag)
+23:18:30	Warning: 	Link https://looksrare.org/tr/collections/0x942BC2d3e7a589FE5bd4A5C6eF9727DFd82F5C8a/activity not scanned (follow robots meta tag)
+23:18:30	Warning: 	Link https://looksrare.org/tr/collections/0x5CC5B05a8A13E3fBDB0BB9FcCd98D38e50F90c38/activity not scanned (follow robots meta tag)
+23:18:30	Warning: 	Link https://looksrare.org/collections/0x6B00de202e3Cd03c523CA05d8b47231DBdD9142b/activity not scanned (follow robots meta tag)
+23:18:30	Warning: 	Link https://looksrare.org/collections/0x7DaEC605E9e2a1717326eeDFd660601e2753A057/activity not scanned (follow robots meta tag)
+23:18:30	Warning: 	Link https://looksrare.org/collections/0x19b86299c21505cdf59cE63740B240A9C822b5E4/activity not scanned (follow robots meta tag)
+23:18:30	Warning: 	Link https://looksrare.org/collections/0x64780CE53f6e966E18a22Af13a2F97369580Ec11/activity not scanned (follow robots meta tag)
+23:18:31	Warning: 	Link https://looksrare.org/collections/0x5Af0D9827E0c53E4799BB226655A1de152A425a5/activity not scanned (follow robots meta tag)
+23:18:31	Warning: 	Link https://looksrare.org/collections/0xBDa2481db91fc0F942eD3F53De378Ba45ba9d17E/activity not scanned (follow robots meta tag)
+23:18:31	Warning: 	Link https://looksrare.org/collections/0xaCF63E56fd08970b43401492a02F6F38B6635C91/activity not scanned (follow robots meta tag)
+23:18:31	Warning: 	Link https://looksrare.org/collections/0x306b1ea3ecdf94aB739F1910bbda052Ed4A9f949/activity not scanned (follow robots meta tag)
+23:18:31	Warning: 	Link https://looksrare.org/collections/0x942BC2d3e7a589FE5bd4A5C6eF9727DFd82F5C8a/activity not scanned (follow robots meta tag)
+23:18:31	Warning: 	Link https://looksrare.org/collections/0x5CC5B05a8A13E3fBDB0BB9FcCd98D38e50F90c38/activity not scanned (follow robots meta tag)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 5 seconds : 139 links scanned, 138 files written (35711419 bytes overall) [8457872 bytes received at 67662 bytes/sec], 35246402 bytes transferred using HTTP compression in 129 files, ratio 21%, 23.1 requests per connection
+(No errors, 42 warnings, 0 messages)
